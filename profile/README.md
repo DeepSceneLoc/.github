@@ -1,12 +1,13 @@
-## Hi there 👋
+# DeepSceneLoc
 
-<!--
+DeepSceneLoc is a deep learning project for visual scene understanding and image-based location estimation. The system predicts the type of scene (such as urban, rural, coastal, mountain, or forest) and aims to estimate the specific location of an image using only visual content—no GPS or metadata required.
 
-**Here are some ideas to get you started:**
+**Key Points:**
+- Hybrid AI approach for scene classification and location detection
+- Works with standard images, no GPS or EXIF needed
+- Uses deep learning and transfer learning techniques
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Project Status:** Academic research project, not for commercial use.
+
+**Repository:** https://github.com/DeepSceneLoc/
+For more information, see the repository or contact the project team.
